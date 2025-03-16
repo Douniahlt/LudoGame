@@ -3,6 +3,8 @@
 ## Description
 Ce projet est une implémentation du jeu de Ludo (aussi connu sous le nom de "Petits Chevaux" en français ou "Parcheesi" dans certains pays) en utilisant Python et Tkinter. C'est un jeu de plateau classique où chaque joueur essaie d'amener ses quatre pions de sa base à sa maison en suivant un parcours sur le plateau.
 
+![Nom de l'image](ludo_board.png)
+
 ## Fonctionnalités
 - Interface graphique complète avec menu d'accueil
 - Prise en charge de 1 à 4 joueurs humains
